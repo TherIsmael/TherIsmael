@@ -1,21 +1,17 @@
 <div id="header" align="center">
   <h1 align="center">Hola, soy Ismael</h1>
 <h3 align="center">
-  Actualmente estoy estoy estudiando para ser un front end con conocimientos
-  basicos de back end.
+  
 </h3>
 </div>
 
 ---
 ### Habilidades:
 
-- Estudiando front end con puro HTML, CSS 
-
-- Empeze a estudiar PHP MySQL con laravel 
-
-- Se HTML semantico, flexbox, gridbox, trabajar en react
-
-- Estoy abierto a aprender cosas nuevas
+- Se trabajar con HTML, CSS, SCSS, javascript
+- Algunos de los frameworks con los que he trabajado son: next js y laravel
+- Las librerias con la que he trabajado son: react y react native
+- Tambien los lenguajes con los que he llegado a trabajar son: java y php
 
 ---
 
